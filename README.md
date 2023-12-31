@@ -1,2 +1,2 @@
 # Tetris-Game
-Tetris simülasyon çalışması
+A work of simulating Tetris® game
